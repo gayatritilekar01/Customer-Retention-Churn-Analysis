@@ -38,7 +38,9 @@ The Power BI dashboard includes:
 - Churn by Contract Type
 - Churn Rate by Internet Service
 - Churn Rate by Tenure Group
+## Dashboard Preview
 
+![Customer Retention & Churn Analysis Dashboard](dashboard.png)
 ## Key Insights
 
 - The overall customer churn rate is 26.54%.
