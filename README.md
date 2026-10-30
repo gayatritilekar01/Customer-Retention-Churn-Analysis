@@ -40,9 +40,9 @@ The Power BI dashboard includes:
 - Churn Rate by Tenure Group
 ## Dashboard Preview
 
-/Screenshot 2026-10-30 201512.png
 
-)
+Screenshot 2026-10-30 201512.png
+
 ## Key Insights
 
 - The overall customer churn rate is 26.54%.
