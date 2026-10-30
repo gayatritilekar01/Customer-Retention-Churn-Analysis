@@ -40,8 +40,8 @@ The Power BI dashboard includes:
 - Churn Rate by Tenure Group
 ## Dashboard Preview
 
+![Customer Retention & Churn Dashboard](Screenshot%202026-10-30%20201512.png)
 
-Screenshot 2026-10-30 201512.png
 
 ## Key Insights
 
